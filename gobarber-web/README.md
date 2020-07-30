@@ -20,7 +20,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="GoBarber" title="GoBarber" src="./src/assets/github-explorer.png" />
+    <img alt="GoBarber" title="GoBarber" src="./src/assets/logo-cover.png" />
 </h1>
 
 <h4 align="center">
@@ -39,7 +39,7 @@
 
 ## 💻 Sobre o projeto
 
-♻️ GoBarber -
+💈 GoBarber - Busque cabeleireiros e agende horários, ou cadastre-se como profissional e obtenha novos clientes!
 
 
 Projeto desenvolvido durante o **Bootcamp Gostack** oferecido pela [Rocketseat](https://blog.rocketseat.com.br/).
@@ -48,34 +48,44 @@ Projeto desenvolvido durante o **Bootcamp Gostack** oferecido pela [Rocketseat](
 
 ## ⚙️ Funcionalidades
 
-- [x] Integração com API do Github
-- [x] Usuário realiza a pesquisa dos repositórios
-  - [x] Se encontrado, o repositório é listado e salvo no storage local
-  - [x] Senão é exibida uma mensagem de erro ao usuário
-- [x] Acessar o repositório é possível visualizar:
-  - Forks
-  - Stars
-  - Issues
-  - Todas as Issues são listadas em lista
+- [ ] Páginas
+  - [x] Página de Cadastro
+  - [x] Página de Login
+  - [ ] Dashboard
+- [x] Autenticação
+  - [x] Login utilizando hooks e context
+  - [x] Usuários salvos no Storage
+  - [x] Logout
+- [x] Rotas da Aplicação
+  - [x] Direcionamento entre Login e Cadastro
+  - [x] Direcionamento do Login para Dashboard
+  - [ ]
+- [x] Animações com keyframe
+- [x] Mensagens de Toast
+  - [x] Mensagens de sucesso
+  - [x] Mensagens de erro
+  - [x] Mensagens de informação
+  - [x] Animação dos toasts
+
 
 ---
 
-## 🎨 Layout
+<!-- ## 🎨 Layout -->
 
-O layout da aplicação está disponível no Figma:
+<!-- O layout da aplicação está disponível no Figma:
 
 <a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer">
   <img alt="Figma" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
-</a>
+</a> -->
 
 
 
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="GoBarber" title="#GoBarber" src="./src/assets/github-explorer.png" width="400px">
+  <img alt="GoBarber" title="#GoBarber" src="./src/assets/sign-in-cover.png" width="400px">
 
-  <img alt="GoBarber" title="#GoBarber" src="./src/assets/github-explorer2.png" width="400px">
+  <img alt="GoBarber" title="#GoBarber" src="./src/assets/sign-up-cover.png" width="400px">
 </p>
 
 ---
@@ -102,7 +112,6 @@ $ yarn start
 # O servidor inciará na porta:3000 - acesse http://localhost:3000
 
 ```
-
 ---
 
 ## 🛠 Tecnologias
@@ -114,7 +123,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[React Icons](https://react-icons.github.io/react-icons/)**
 -   **[Axios](https://github.com/axios/axios)**
--   **[React Dropzone](https://github.com/react-dropzone/react-dropzone)**
 
 
 ---
