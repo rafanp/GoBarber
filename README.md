@@ -2,7 +2,7 @@
 
   <img src="https://img.shields.io/static/v1?label=&message=React&color=7159c1&style=for-the-badge&logo=react"/>
 
-  <img src="https://img.shields.io/static/v1?label=&message=React Native&color=7159c1&style=for-the-badge&logo=reactnative"/>
+  <img src="https://img.shields.io/static/v1?label=&message=ReactNative&color=7159c1&style=for-the-badge&logo=reactnative"/>
 
   <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=007ACC&style=for-the-badge&logo=typescript"/>
 
