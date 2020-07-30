@@ -51,7 +51,6 @@ Projeto desenvolvido durante o **Bootcamp Gostack** oferecido pela [Rocketseat](
 - [x] Rotas da Aplicação
   - [x] Direcionamento entre Login e Cadastro
   - [x] Direcionamento do Login para Dashboard
-  - [ ]
 - [x] Animações com keyframe
 - [x] Mensagens de Toast
   - [x] Mensagens de sucesso
