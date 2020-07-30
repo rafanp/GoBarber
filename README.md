@@ -1,19 +1,8 @@
 <p align="center">
 
-<!--   <img alt="React" src="https://img.shields.io/badge/-React-%2361DAFB">
-
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-blue">
-
-  <img src="https://img.shields.io/static/v1?message=React&color=7159c1&style=for-the-badge&logo=react"/>
-
-  <img src="https://img.shields.io/static/v1?logo=react&message=logo=react&React&color=7159c1&style=for-the-badge&logo=react"/>
-
-  <img src="https://img.shields.io/static/v1?logo=react&message=React&color=7159c1&style=for-the-badge&logo=react"/>
- -->
-
   <img src="https://img.shields.io/static/v1?label=&message=React&color=7159c1&style=for-the-badge&logo=react"/>
 
-  <img src="https://img.shields.io/static/v1?label=&message=ReactNative&color=7159c1&style=for-the-badge&logo=reactnative"/>
+  <img src="https://img.shields.io/static/v1?label=&message=React Native&color=7159c1&style=for-the-badge&logo=reactnative"/>
 
   <img src="https://img.shields.io/static/v1?label=&message=Typescript&color=007ACC&style=for-the-badge&logo=typescript"/>
 
@@ -23,7 +12,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="GoBarber" title="GoBarber" src="./gobarber-web/src/assets/logo-cover.png />
+    <img alt="GoBarber" title="GoBarber" src="./gobarber-web/src/assets/logo-cover.png" />
 </h1>
 
 <h4 align="center">
